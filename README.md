@@ -1,6 +1,6 @@
 # Touhou Project - The Beginning of Fantasy
 
-Game Developers: Haoji Tang, Yu Zhang
+Game Developers: Haoji Tang, CrazySakura
 
 Game Engine: Unity 5
 
